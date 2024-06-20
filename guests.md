@@ -15,4 +15,4 @@
 | Julian            | 3             |
 | Maxibon           | 5 	        |
 | Judy Ling         | 4             |
-
+| Chihlin           | 2             |
